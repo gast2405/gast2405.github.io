@@ -1,0 +1,23 @@
+body
+{
+background-color: lightgreen;
+  font-family: Verdana;
+}
+h1
+{
+  color: green;
+  backround-color: gray;
+  font-family: bakery;
+}
+th
+{
+  background-color: black;
+}
+td
+{
+  background-color: yellow;
+}
+table
+{
+  border: 1px solid red;
+}
