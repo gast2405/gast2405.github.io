@@ -1,5 +1,3 @@
-#background {
-  background-image: url("http://i2.cdn.turner.com/cnnnext/dam/assets/151201152016-steve-jobs-the-man-in-the-machine-background-full-169.jpg");
-  width: 100%;
-  height: 100%;
+body {
+  background-color: red;
 }
