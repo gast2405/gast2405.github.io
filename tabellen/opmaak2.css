@@ -1,0 +1,14 @@
+table.prijslijst {
+  border-collapse: collapse;
+  border: 3px solid silver;
+  color: #ffcc66;
+  background-color: #771617;
+}
+table.prijslijst td {
+  border: 3px solid silver;
+}
+
+table.prijslijst th {
+  background-color: white;
+  color: black;
+}

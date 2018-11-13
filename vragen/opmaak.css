@@ -1,0 +1,30 @@
+body {
+  background-color:  #eeeeff;
+  color: #660099;
+}
+
+p.vraag {
+  color: purple;
+}
+
+p.antwoord {
+  background-color: yellow;
+  color: yellow;
+}
+
+p.antwoord:hover {
+  color: black;
+}
+
+p#uitleg {
+  font-style: italic;
+}
+
+h2 {
+  background-color: red;
+}
+
+.vragen{
+  font-style: italic;
+  color: green;
+}

@@ -1,0 +1,17 @@
+.voordelen {
+  background-color:  #eabfff;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  list-style:  inside circle none;
+}
+
+.voordelen li {
+  border-top: black solid 4px;
+  border-bottom: black solid 4px;
+
+  color: #47006b;
+  background-color: #d580ff;
+  padding-top: 4px;
+  padding-bottom: 4px;
+
+}
