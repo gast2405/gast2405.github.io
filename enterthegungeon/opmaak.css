@@ -38,7 +38,7 @@ h2 {
   font-size: 150%;
   color: #33cccc;
 }
-a {
+.wiki {
   text-decoration: none;
   padding: 10px;
   margin: 0 30% 0 48%;
@@ -95,4 +95,24 @@ p.voordeel {
   background-color: purple;
   border: 4px maroon double;
   margin: 0 80% 0 0;
+}
+
+.menu {
+  border: 4px maroon double;
+  border-radius: 20px 0px 15px 0px;
+  margin: 0 65% 0 0;
+}
+
+.menu li {
+  display: inline;
+  border: 1px solid purple;
+  border-radius: 0px 20px 0px 20px;
+}
+
+strong {
+  color: #33cccc;
+  font-weight: normal;
+  font-style: italic;
+  text-align : center;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
